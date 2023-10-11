@@ -1,0 +1,47 @@
+a{
+    font-weight: normal !important;
+    color: black !important;
+}
+.contact_us{
+    background-color: #85E0CE;
+}
+.nav_size{
+    margin-right: 6rem;
+}
+.position-absolute{
+    left: 26%;
+    bottom: 44%;
+}
+.banner{
+    background-image: url(../img/ima.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.btn_se{
+    background-color:#85E0CE ;
+    font-size: 1.19rem;
+    color: black;
+}
+.btn_se{
+    border: 2px solid #15E4BB;
+}
+.pt{
+    padding-top: 9rem !important;
+    padding-bottom:8rem !important;
+}
+.font{
+    font-size: 2.7rem !important; 
+}
+.container-fluid{
+    background-color: #E0E0E0;
+}
+.btn_c{
+    background-color:#85E0CE ;
+}
+.para_c{
+    color: rgb(100, 95, 95);
+}
+.btn_c:hover{
+    background-color: rgb(218, 214, 214);
+}
