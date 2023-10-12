@@ -45,3 +45,46 @@ a{
 .btn_c:hover{
     background-color: rgb(218, 214, 214);
 }
+.cba{
+    background-color:#E0E0E0 ;
+}
+.equ{
+    
+}
+.equ_b{
+    background-color:#85E0CE ; 
+}
+.jus{
+    margin: 0 auto;
+}
+.sz{
+    width: 2rem;
+    height: 2rem;
+}
+.card{
+    border: none;
+}
+.help_bar{
+    background-color: #1B222C;
+}
+label{
+    color: white;
+    padding:0.39rem;
+    font-size:1.1rem;
+}
+.footer_custom{
+	background: #3F454D;
+}
+.footer_custom a{
+    color: #ffffff7a;
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.marzin{
+    display: block;	
+    height: 2px;	
+    width: 100%;
+    background: #f0f8ff2e;
+    }
